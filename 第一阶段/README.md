@@ -208,6 +208,8 @@ Arrays.asList(Thread.currentThread().getStackTrace()).stream()
 
 ## 4.线程同步(synchronized)
 
+**解决原子性问题。**
+
 ```java
 class X {
     // 4.1 修饰非静态方法
