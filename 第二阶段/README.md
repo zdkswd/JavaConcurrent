@@ -74,4 +74,29 @@ tile变量自身具有下列特性。
 
 # 4. 多线程中的观察者模式
 
+```
+package zdk.javaConcurrent2.observer;
+```
+
 见代码。
+
+# 5.单线程门
+
+```
+package zdk.javaConcurrent2.singleThread;
+```
+
+user使用资源者，gate临界资源
+
+# 6.ReadWriteLock
+
+读时读并行化
+
+读时写不允许
+
+写时写不允许
+
+```
+package zdk.javaConcurrent2.readWriteLock;
+```
+
