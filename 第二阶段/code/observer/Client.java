@@ -1,4 +1,4 @@
-package zdk.javaConcurret2.observer;
+package zdk.javaConcurrent2.observer;
 
 import java.util.Arrays;
 
