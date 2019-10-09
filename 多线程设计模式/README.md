@@ -141,7 +141,17 @@ package zdk.javaConcurrent2.readWriteLock;
 
 # 9.Guarded Suspension设计模式
 
- clientThread 放请求到队列
+ 直译过来就是“保护性地暂停”。
+
+clientThread 放请求到队列
 
 serverThread 处理请求队列
+
+# 10.ThreadLocal
+
+![1570586146797](assets/1570586146797.png)
+
+不同的线程从同一个ThreadLocal对象中可以得到不同的结果。
+
+
 
